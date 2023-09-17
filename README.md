@@ -3,7 +3,7 @@
 My Name is Elisha White 
 
 🖼 Here's a little about me 
-- 💻 I’m currently working on getting my degree in information systems and technology 
+- 💻 I’m currently working on getting my degree in computer programming
 - 🎮 I like working on and fixing different devices 
 - 👨🏾‍🍳 I currently work at a restaurant 
 - ⚡ Fun fact: I love basketball
